@@ -1,5 +1,7 @@
 npx create-react-app task-management
+
 npm install
+
 npm run
 
 Task Manager SPA (React.js)
